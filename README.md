@@ -1,1 +1,1 @@
-# pure-css-modal.github.io
+# pure-css-modal
